@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CONNECT_SCRIPT_START",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CONNECT_SCRIPT_START",
+  "parent":{
+    "name":"pingpong_test",
+    "path":"pingpong_test.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

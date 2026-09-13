@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"CONNECT_MUSIC_NUMBERS",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":176.14899,
+  "exportDir":"",
+  "name":"CONNECT_MUSIC_NUMBERS",
+  "parent":{
+    "name":"pingpong_test",
+    "path":"pingpong_test.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"CONNECT_MUSIC_NUMBERS.ogg",
+  "volume":1.0,
+}
