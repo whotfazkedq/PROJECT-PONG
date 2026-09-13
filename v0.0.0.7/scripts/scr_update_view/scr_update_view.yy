@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_update_view",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_update_view",
+  "parent":{
+    "name":"pingpong_test",
+    "path":"pingpong_test.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

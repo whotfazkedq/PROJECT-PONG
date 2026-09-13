@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_fullscreen",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_fullscreen",
+  "parent":{
+    "name":"pingpong_test",
+    "path":"pingpong_test.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

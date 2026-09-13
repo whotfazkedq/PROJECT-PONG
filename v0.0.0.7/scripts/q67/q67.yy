@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"q67",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"q67",
+  "parent":{
+    "name":"pingpong_test",
+    "path":"pingpong_test.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
